@@ -1,3 +1,3 @@
 # test-repo
 
-See https://github.com/NetSPI/AWSSigner for more information.
+The dependencies are stored in https://github.com/NetSPI/AWSSigner
